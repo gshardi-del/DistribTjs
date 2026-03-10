@@ -1,0 +1,2 @@
+# DistribTjs
+Apk distribusi
